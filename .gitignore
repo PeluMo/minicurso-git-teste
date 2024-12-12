@@ -1,0 +1,2 @@
+# o .gitignore é um arquivo que contém uma lista de arquivos e diretórios que o Git deve ignorar.
+.env
